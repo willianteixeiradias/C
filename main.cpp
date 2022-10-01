@@ -6,6 +6,7 @@ int main(int argc, char** argv) {
 	char nome [30];
 	char endereco [30];
 	int idade ;
+	int idade2 ;
 	printf("digite seu nome \n");
 	scanf("%s", &nome);
 	printf("digite seu endereco \n");
