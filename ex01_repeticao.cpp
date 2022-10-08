@@ -11,7 +11,7 @@ int main(int argc, char** argv) {
 	printf("\t (2) morango  ");
 	printf("\t (2) abacaxi");
 
-	scanf ("%d" , &i);
+	scanf ("%int" , &i);
 
 	
 }	while (i<1 || i>3);
